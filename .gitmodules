@@ -5,3 +5,4 @@
 [submodule "vendor/styles"]
 	path = vendor/styles
 	url = https://github.com/lightman76/styles.git
+	branch = master
